@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My Stacks
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/anaconda-44A833?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Python&logoColor=white"/> 
 <!--
 **kingrangE/kingrangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
