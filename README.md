@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KingrangE%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KingrangE&fontSize=90&animation=blink&fontAlign=100)
