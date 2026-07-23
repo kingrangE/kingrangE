@@ -1,5 +1,3 @@
-## KingrangE
-
 ## Work Experience
 - 솔브레인 AITF팀 인턴 (26.03 - 26.06)
     - BPR을 통한 업무 프로세스 개선 (인사, 구매)
@@ -19,3 +17,7 @@
 ## Education
 - 세종대학교 지능기전공학부 스마트기기공학전공 (20.03 - 26.08)(전공: 4.12)
 - 현대자동차 소프티어 부트캠프 (26.07.01 - 26.08.31)
+
+## Publication
+- [전길원 et al. Evaluating The Openness of Impactful AI Models with A Focus on LLMs,](https://koreascience.or.kr/article/JAKO202519950404862.page)
+- [전길원 et al. A Methodology for Customized Summarization of Educational Materials Using LLM-Based Agents](https://koreascience.kr/article/CFKO202520961205222.page)
