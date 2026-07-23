@@ -1,16 +1,21 @@
-## Hi there 👋
+## KingrangE
 
-<!--
-**kingrangE/kingrangE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Work Experience
+- 솔브레인 AITF팀 인턴 (26.03 - 26.06)
+    - BPR을 통한 업무 프로세스 개선 (인사, 구매)
+    - 사내 AI 서비스 개발
+- WHATsLAB AI개발 계약직 (23.12 - 25.02)
+    - 데이터 분석 및 AI 모델 개발 (3D Reconstruction, Serial Binary Classification)
+    - Backend 구축 및 운영
 
-Here are some ideas to get you started:
+## Award
+- 제 14회 세종대학교 SWAI 해커톤 **대상** (26.06.25)
+- 제 10회 SW·AI융합 SW코딩경시대회 **2위** (25.12.12)
+- 제 12회 세종대학교 SWAI 해커톤 **은상** (26.06.26)
+- AI로봇학과 2025학년도 1학기 학술제 **2위** (25.06.23)
+- 제 11회 세종대학교 SWAI 해커톤 **은상** (24.12.27)
+- 성적 우수 장학금 **3위** (24.03.04)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+- 세종대학교 지능기전공학부 스마트기기공학전공 (20.03 - 26.08)(전공: 4.12)
+- 현대자동차 소프티어 부트캠프 (26.07.01 - 26.08.31)
