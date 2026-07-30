@@ -1,3 +1,13 @@
+## Tech Stack
+### Proficient
+> 자주 사용하는 기술 스택 (프로젝트에 2회 이상 적용)
+
+### Experienced
+> 경험해본 기술 스택 (프로젝트에 1회 적용)
+
+### Basic
+> 실습해본 기술 스택
+
 ## Work Experience
 - 솔브레인 AITF팀 인턴 (26.03 - 26.06)
     - BPR을 통한 업무 프로세스 개선 (인사, 구매)
