@@ -36,6 +36,7 @@
 
 ### ETC
 > 기타 도구
+
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white)
