@@ -1,3 +1,5 @@
+- [이력서](https://kingrange.github.io/Resume/)
+
 ## Tech Stack
 ### Proficient
 > 자주 사용하는 기술 스택 (프로젝트에 3회 이상 적용)
